@@ -67,6 +67,6 @@ Se implementaron bucles para contar la cantidad de registros por tipo de operaci
 - Evaluar modelos con diferentes métricas y validación cruzada para mayor confiabilidad.
 
 ## Enlace al repositorio GitHub
-*(Agrega aquí el enlace a tu repositorio)*
+(https://colab.research.google.com/drive/1zX1G8ZxlX5RREH6CMIPDSkDn3tGvhnAn?authuser=0#scrollTo=HPNrdEw8xipo)
 
 
